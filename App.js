@@ -1,4 +1,4 @@
-import Uploader from "./components/Uploader"; //import CustomInput from "./components/CustomInput";
+import Uploader from "./components/Uploader";
 import Loader from "./renderpdfinreach.js";
 
 function App() {
