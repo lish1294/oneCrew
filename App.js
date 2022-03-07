@@ -1,5 +1,5 @@
 import Uploader from "./components/Uploader";
-import Loader from "./renderpdfinreach.js";
+import Loader from "./Loader.js";
 
 function App() {
   return (
